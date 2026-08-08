@@ -9,7 +9,7 @@
  ╚═════╝ ╚══════╝╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝
 ```
 
-### ⚔️ *"For the Emperor, for Ultramar!"* ⚔️
+### ⚔️ _"For the Emperor, for Ultramar!"_ ⚔️
 
 ![XIII Legion](https://img.shields.io/badge/CHAPTER-XIII%20LEGION-1E3A8A?style=for-the-badge&labelColor=0A0F1C)
 ![Primarch](https://img.shields.io/badge/PRIMARCH-ROBOUTE%20GUILLIMAN-FBBF24?style=for-the-badge&labelColor=0A0F1C)
@@ -28,22 +28,19 @@
 ## 🛡️ CHAPTER ROSTER — ABOUT ME
 
 ```yaml
-callsign:      raghavexe
-chapter:       Ultramarines (XIII Legion)
-rank:          Battle-Brother / Developer-Adept
-combat_doctrine: Codex Astartes — plan first, deploy with precision
-current_mission: Building & shipping code across the galaxy
-allegiance:    The Imperium of Man (and open source)
+user: raghavexe
+rank: Battle-Brother / Developer-Adept
+current_mission: Building & shipping code
+allegiance: The Imperium of Man (and open source)
 ```
 
 - 🔭 Currently campaigning on new projects across the digital Imperium
 - 🌱 Forever studying the Codex — always learning new tech
 - 💬 Ping me on matters of code, architecture, or Ultramarines lore
-- ⚡ Fun fact: Ultramarines follow the Codex Astartes to the letter — and so do I with my commit messages
 
 ---
 
-## ⚔️ ARSENAL — TECH STACK
+## ⚔️ TECH STACK
 
 <div align="center">
 
@@ -56,13 +53,11 @@ allegiance:    The Imperium of Man (and open source)
 ![Git](https://img.shields.io/badge/-Git-1E3A8A?style=for-the-badge&logo=git&logoColor=FBBF24)
 ![Linux](https://img.shields.io/badge/-Linux-1E3A8A?style=for-the-badge&logo=linux&logoColor=FBBF24)
 
-*(swap these for your actual loadout — just say the word)*
-
 </div>
 
 ---
 
-## 📜 BATTLE HONOURS — GITHUB STATS
+## 📜 BATTLE HONOURS
 
 <div align="center">
 
@@ -81,32 +76,13 @@ allegiance:    The Imperium of Man (and open source)
 
 ---
 
-## 🏆 CODEX ASTARTES — GUIDING PRINCIPLES
-
-> *"A Space Marine's true strength lies not in his physical power, but in his indomitable will."*
-
-```
-┌─────────────────────────────────────────────┐
-│  I.    Know thy code, as thou knowest thyself │
-│  II.   Test before deployment, always         │
-│  III.  Refactor without mercy, without remorse│
-│  IV.   Document, for the Codex must endure    │
-│  V.    Never push to prod on a Friday         │
-└─────────────────────────────────────────────┘
-```
-
----
-
 ## 📡 VOX-CHANNEL — CONNECT
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-0A0F1C?style=for-the-badge&logo=github&logoColor=FBBF24)](https://github.com/raghavexe)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0F1C?style=for-the-badge&logo=linkedin&logoColor=FBBF24)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-0A0F1C?style=for-the-badge&logo=x&logoColor=FBBF24)](#)
-[![Email](https://img.shields.io/badge/Email-0A0F1C?style=for-the-badge&logo=gmail&logoColor=FBBF24)](#)
-
-*(drop in your real links and I'll update the badges)*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0F1C?style=for-the-badge&logo=linkedin&logoColor=FBBF24)](www.linkedin.com/in/raghav-tengse-05b774257)
+[![Website](https://img.shields.io/badge/Email-0A0F1C?style=for-the-badge&logo=gmail&logoColor=FBBF24)](https://raghav-tengse.vercel.app)
 
 </div>
 
@@ -114,7 +90,7 @@ allegiance:    The Imperium of Man (and open source)
 
 <div align="center">
 
-### 🔵🟡 *THE CODE IS THE LAW. THE COMMIT IS THE WORD. THE EMPEROR PROTECTS.* 🟡🔵
+### 🔵🟡 _THE CODE IS THE LAW. THE COMMIT IS THE WORD. THE EMPEROR PROTECTS._ 🟡🔵
 
 ![Profile Views](https://komarev.com/ghpvc/?username=raghavexe&color=1E3A8A&style=for-the-badge&label=SCANS+DETECTED)
 
