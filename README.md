@@ -1,41 +1,40 @@
 <div align="center">
 
 ```
-██╗   ██╗██╗  ████████╗██████╗  █████╗ ███╗   ███╗ █████╗ ██████╗ ██╗███╗   ██╗███████╗███████╗
-██║   ██║██║  ╚══██╔══╝██╔══██╗██╔══██╗████╗ ████║██╔══██╗██╔══██╗██║████╗  ██║██╔════╝██╔════╝
-██║   ██║██║     ██║   ██████╔╝███████║██╔████╔██║███████║██████╔╝██║██╔██╗ ██║█████╗  ███████╗
-██║   ██║██║     ██║   ██╔══██╗██╔══██║██║╚██╔╝██║██╔══██║██╔══██╗██║██║╚██╗██║██╔══╝  ╚════██║
-╚██████╔╝███████╗██║   ██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║██║  ██║██║██║ ╚████║███████╗███████║
- ╚═════╝ ╚══════╝╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝
+██████╗  █████╗  ██████╗ ██╗  ██╗ █████╗ ██╗   ██╗
+██╔══██╗██╔══██╗██╔════╝ ██║  ██║██╔══██╗██║   ██║
+██████╔╝███████║██║  ███╗███████║███████║██║   ██║
+██╔══██╗██╔══██║██║   ██║██╔══██║██╔══██║╚██╗ ██╔╝
+██║  ██║██║  ██║╚██████╔╝██║  ██║██║  ██║ ╚████╔╝
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝
 ```
-
-### ⚔️ _"For the Emperor, for Ultramar!"_ ⚔️
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=24&duration=3500&pause=1000&color=1E3A8A&center=true&vCenter=true&width=650&lines=Codex+Astartes+compliant.+Always.;Deploying+troops...+I+mean%2C+deploying+code.;Discipline.+Loyalty.+Clean+commits.;The+Emperor+protects+%E2%80%94+and+so+do+I." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=22&duration=3500&pause=1000&color=1E3A8A&center=true&vCenter=true&width=650&lines=MSc+Cybersecurity+%40+TU+Darmstadt;Building+%26+shipping+code;Always+learning+something+new" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🛡️ CHAPTER ROSTER — ABOUT ME
+## About Me
 
 ```yaml
-user: raghavexe
-rank: Masters in Cybersecurity at TU Darmstadt
-current_mission: Building & shipping code
-allegiance: The Imperium of Man (and open source)
+name: Raghav Tengse
+studying: MSc Cybersecurity @ TU Darmstadt
+focus: Building & shipping code
+interests: Security, systems, and clean engineering
 ```
 
-- 🔭 Currently campaigning on new projects across the digital Imperium
-- 🌱 Forever studying the Codex — always learning new tech
+- 🔭 Currently working on new projects
+- 🌱 Always learning new tech and tools
+- 📫 Reach me via the links below
 
 ---
 
-## ⚔️ TECH STACK
+## Tech Stack
 
 <div align="center">
 
@@ -52,12 +51,12 @@ allegiance: The Imperium of Man (and open source)
 
 ---
 
-## 📜 BATTLE HONOURS
+## Stats
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=raghavexe&show_icons=true&hide_border=true&title_color=FBBF24&icon_color=FBBF24&text_color=E5E7EB&bg_color=0A0F1C&border_radius=10"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavexe&layout=compact&hide_border=true&title_color=FBBF24&text_color=E5E7EB&bg_color=0A0F1C&border_radius=10"/>
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=raghavexe&show_icons=true&hide_border=true&title_color=FBBF24&icon_color=FBBF24&text_color=E5E7EB&bg_color=0A0F1C&border_radius=10"/>
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=raghavexe&layout=compact&hide_border=true&title_color=FBBF24&text_color=E5E7EB&bg_color=0A0F1C&border_radius=10"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavexe&hide_border=true&background=0A0F1C&ring=1E3A8A&fire=FBBF24&currStreakLabel=FBBF24&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=6B7280" alt="streak stats"/>
 
@@ -71,13 +70,13 @@ allegiance: The Imperium of Man (and open source)
 
 ---
 
-## 📡 VOX-CHANNEL — CONNECT
+## Connect
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-0A0F1C?style=for-the-badge&logo=github&logoColor=FBBF24)](https://github.com/raghavexe)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0F1C?style=for-the-badge&logo=linkedin&logoColor=FBBF24)](www.linkedin.com/in/raghav-tengse-05b774257)
-[![Website](https://img.shields.io/badge/Email-0A0F1C?style=for-the-badge&logo=gmail&logoColor=FBBF24)](https://raghav-tengse.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0F1C?style=for-the-badge&logo=linkedin&logoColor=FBBF24)](https://www.linkedin.com/in/raghav-tengse-05b774257)
+[![Website](https://img.shields.io/badge/Website-0A0F1C?style=for-the-badge&logo=vercel&logoColor=FBBF24)](https://raghav-tengse.vercel.app)
 
 </div>
 
@@ -85,8 +84,6 @@ allegiance: The Imperium of Man (and open source)
 
 <div align="center">
 
-### 🔵🟡 _THE CODE IS THE LAW. THE COMMIT IS THE WORD. THE EMPEROR PROTECTS._ 🟡🔵
-
-![Profile Views](https://komarev.com/ghpvc/?username=raghavexe&color=1E3A8A&style=for-the-badge&label=SCANS+DETECTED)
+![Profile Views](https://komarev.com/ghpvc/?username=raghavexe&color=1E3A8A&style=for-the-badge&label=VISITORS)
 
 </div>
