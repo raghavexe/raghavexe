@@ -11,10 +11,6 @@
 
 ### ⚔️ _"For the Emperor, for Ultramar!"_ ⚔️
 
-![XIII Legion](https://img.shields.io/badge/CHAPTER-XIII%20LEGION-1E3A8A?style=for-the-badge&labelColor=0A0F1C)
-![Primarch](https://img.shields.io/badge/PRIMARCH-ROBOUTE%20GUILLIMAN-FBBF24?style=for-the-badge&labelColor=0A0F1C)
-![Homeworld](https://img.shields.io/badge/HOMEWORLD-MACRAGGE-1E3A8A?style=for-the-badge&labelColor=0A0F1C)
-
 </div>
 
 ---
@@ -29,14 +25,13 @@
 
 ```yaml
 user: raghavexe
-rank: Battle-Brother / Developer-Adept
+rank: Masters in Cybersecurity at TU Darmstadt
 current_mission: Building & shipping code
 allegiance: The Imperium of Man (and open source)
 ```
 
 - 🔭 Currently campaigning on new projects across the digital Imperium
 - 🌱 Forever studying the Codex — always learning new tech
-- 💬 Ping me on matters of code, architecture, or Ultramarines lore
 
 ---
 
