@@ -46,8 +46,8 @@ interests: Security, systems, and clean engineering
 ![Docker](https://img.shields.io/badge/-Docker-1E3A8A?style=for-the-badge&logo=docker&logoColor=FBBF24)
 ![Git](https://img.shields.io/badge/-Git-1E3A8A?style=for-the-badge&logo=git&logoColor=FBBF24)
 ![Linux](https://img.shields.io/badge/-Linux-1E3A8A?style=for-the-badge&logo=linux&logoColor=FBBF24)
-![C++](https://img.shields.io/badge/-Linux-1E3A8A?style=for-the-badge&logo=C++&logoColor=FBBF24)
-![Java] (https://img.shields.io/badge/-Linux-1E3A8A?style=for-the-badge&logo=Java&logoColor=FBBF24)
+![Java](https://img.shields.io/badge/Java-1E3A8A?style=for-the-badge&logo=openjdk&logoColor=FBBF24)
+![C++](https://img.shields.io/badge/C%2B%2B-1E3A8A?style=for-the-badge&logo=cplusplus&logoColor=FBBF24)
 
 </div>
 
@@ -83,9 +83,3 @@ interests: Security, systems, and clean engineering
 </div>
 
 ---
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=raghavexe&color=1E3A8A&style=for-the-badge&label=VISITORS)
-
-</div>
