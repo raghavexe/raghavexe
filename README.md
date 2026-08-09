@@ -47,6 +47,7 @@ interests: Security, systems, and clean engineering
 ![Git](https://img.shields.io/badge/-Git-1E3A8A?style=for-the-badge&logo=git&logoColor=FBBF24)
 ![Linux](https://img.shields.io/badge/-Linux-1E3A8A?style=for-the-badge&logo=linux&logoColor=FBBF24)
 ![C++](https://img.shields.io/badge/-Linux-1E3A8A?style=for-the-badge&logo=linux&logoColor=FBBF24)
+![Java] (https://img.shields.io/badge/-Linux-1E3A8A?style=for-the-badge&logo=linux&logoColor=FBBF24)
 
 </div>
 
