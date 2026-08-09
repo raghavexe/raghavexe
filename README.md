@@ -64,12 +64,6 @@ interests: Security, systems, and clean engineering
 
 </div>
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=raghavexe&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8)
-
-</div>
-
 ---
 
 ## Connect
